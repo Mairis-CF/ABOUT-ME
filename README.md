@@ -1,11 +1,10 @@
 # Hello there, I'm Mairis!👋🏻👩🏻‍🦱
 
-![](https://i.imgur.com/FsnPmA7.gif)
-
 ## I am a front-end developer. 🧑🏻‍💻
 
 My first approach to programming happened when I was a high school student and today, as a front-end developer my passion is to face challenges by creating experiences that provide value and service to people, while empathizing with their needs through code.
 
+![](https://i.imgur.com/FsnPmA7.gif)
 
 ## My values
 
